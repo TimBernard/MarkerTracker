@@ -8,3 +8,4 @@ Notes:
 4. The camera intrinsics matrix and distortion coefficients were calculated separately with a personal computer.
    Use any standard camera calibration software from OpenCV website (or included with library) so that it works
    on your device!
+5. Special thanks to JHU CAMP Lab (Computer Aided Medical Procedures) for the Pose Estimation code 
