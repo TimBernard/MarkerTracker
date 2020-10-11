@@ -1,5 +1,5 @@
 # MarkerTracker
-Fiducial Marker Tracking with OpenCV
+Fiducial Marker Tracking with OpenCV, as part of Augemented Reality Spring 2020 
 
 Notes:
 1. Code can be run by running the MarkerTracker.cpp file, which is the driving file
